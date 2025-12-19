@@ -68,13 +68,6 @@ Use as senhas abaixo para testar a usabilidade diretamente no relatório Power B
 
 ---
 
-## 📜 Licença
-
-Este projeto está sob a licença **MIT**.  
-Você pode utilizá-lo, modificar e distribuir livremente, desde que mantenha os créditos originais.
-
----
-
 <p align="center">
   ✨ *Dados transformados em insights estratégicos para apoiar decisões de marketing.*
 </p>
